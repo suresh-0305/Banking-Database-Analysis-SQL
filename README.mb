@@ -1,0 +1,39 @@
+# Banking Database Analysis (SQL Server)
+
+## Project Overview
+This project focuses on designing and analyzing a relational banking database using SQL Server. It explores customer information, bank accounts, transactions, branches, cards, and loan repayment activities.
+
+## Database Tables
+- Customers
+- Accounts
+- Branches
+- Cards
+- Transactions
+- Loans
+- Loan_Payments
+
+## Tools & Technologies
+- SQL Server
+- SQL Server Management Studio (SSMS)
+- SQL
+
+## Key SQL Concepts
+- CREATE TABLE and INSERT
+- Primary Keys and Foreign Keys
+- JOINs
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+- Aggregate Functions
+
+## Analysis Objectives
+- Analyze customer account information.
+- Examine banking transactions.
+- Analyze loan details and repayment trends.
+- Understand customer activity across branches.
+
+## Project File
+- Banking_Database_Analysis.sql
+
+## Conclusion
+This project demonstrates relational database development and SQL querying skills for analyzing banking operations and extracting meaningful insights.
